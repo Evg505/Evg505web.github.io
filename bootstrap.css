@@ -1,0 +1,697 @@
+body {
+    background-color: black;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+}
+
+.h1 {
+    font-weight: 800;
+    font-size: 50px;
+    position: relative;
+} 
+
+
+.h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 38px;
+}
+
+
+.navbar-brand {
+    margin-right: 10px;
+    margin-right: 100px;
+}
+
+.nav-item {
+    margin: 0px 30px 0px 30px;
+}
+
+.navbar {
+    background-color: black;
+    padding: 10px 100px 10px 100px;
+}
+
+#navigation {
+    padding: 0px;
+}
+
+
+.row {
+    margin: 20px 0px 20px 0px;
+}
+
+.textGray1 {
+    color: gray;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.textGray {
+    color: gray;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.btn {
+    margin: 0px 20px 0px 20px;
+}
+
+.btn-text {
+    padding: 5px 25px 5px 25px;
+}
+
+.footer {
+    display: inline-flex;
+    margin: 100px 0px 30px 0px;
+}
+
+li {
+    margin: 0px 50px 0px 50px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.teamH2 {
+    text-align: center;
+    margin: 80px 0px 5px 0px;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.team {
+    text-align: left;
+    margin: 15px 0px 20px 0px;
+}
+
+.teamImage {
+    height: 200px;
+    align-items: flex-end;
+}
+
+.FAQtext {
+    text-align: left;
+}
+
+.FAQrow {
+    text-align: left;
+    margin: 20px 0px 20px 0px;
+}
+
+.wellnessImage img {
+    height: 500px;
+    width: auto;
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.blueFont {
+    color: blue;
+    text-decoration: none;
+}
+
+.blueFont:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+.Store1 img{
+    width: 200px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.Store2 img{
+    width: 200px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.MiddleImage {
+    height: 500px;
+    width: auto;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    margin: 10px 15px 10px 15px;
+}
+
+.firstImg {
+    margin: 100px 30px 5px 30px;
+}
+
+.secondImg {
+    margin: 50px 30px 50px 30px;
+}
+
+.thirdImg {
+    margin: 5px 30px 100px 30px;
+}
+
+.swimmerImage {
+    height: 300px;
+    width: auto;
+}
+
+.thirdBlock {
+    margin-top: 300px;
+    margin-bottom: 200px;
+} 
+
+.secondBlock {
+    margin-top: 300px;
+} 
+
+.swimImage {
+    display: flex;
+    justify-content: center;
+}
+
+.h3 {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.textGray2 {
+    color: gray;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.Store1 {
+    display: flex;
+    justify-content: center;
+} 
+
+.Store2 {
+    display: flex;
+    justify-content: center;
+} 
+
+.fourthBlock {
+    margin-bottom: 200px;
+} 
+
+.email {
+    text-align: center;
+    font-size: 18px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.memberDescription {
+    color: gray;
+    font-size: 18px;
+}
+
+.memberName {
+        font-weight: 500;
+        font-size: 28px;
+}
+
+.memberPosition {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.memberPicture {
+    height: 150px;
+    width: auto;
+}
+
+.Picture {
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.teamMember {
+    margin-top: 30px;
+}
+
+.SupportH2 {
+    text-align: center;
+    margin: 80px 0px 25px 0px;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.grayH2 {
+    color: gray;
+    font-size: 22px;
+}
+
+.emailSupport {
+    text-align: center;
+    font-size: 22px;
+    color: blue;
+    text-decoration: underline;
+}
+
+#support {
+    margin: 0px;
+}
+
+.input {
+    border-radius: 50px;
+    height: 50px;
+    width: 750px;
+    display: flex;
+} 
+
+.textInput {
+    border-radius: 20px;
+    height: 50px;
+    width: 750px;
+    display: flex;
+}
+
+.supportForm {
+    display: flex;
+    justify-content: center;
+    border: 1p solid white;
+}
+
+.submit {
+    color: white;
+    background-color: #355ce4;
+    border-radius: 25px;
+    padding: 15px 60px 15px 60px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    margin: 5px 300px 5px 300px;
+    position: relative;
+}
+
+.textGray3 {
+    color: gray;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    margin: 25px 0px 25px 0px;
+}
+
+#answerBlock {
+    display: none;
+    color: gray;
+    font-size: 18px;
+    margin: 20px 275px 20px 200px;
+}
+
+#answerBlock2 {
+    display: none;
+    color: gray;
+    font-size: 18px;
+    margin: 20px 275px 20px 200px;
+}
+
+#answerBlock3 {
+    display: none;
+    color: gray;
+    font-size: 18px;
+    margin: 20px 275px 20px 200px;
+}
+
+#answerBlock4 {
+    display: none;
+    color: gray;
+    font-size: 18px;
+    margin: 20px 275px 20px 200px;
+}
+
+#closeBtn {
+    display: none;
+}
+
+.FAQH2 {
+    text-align: center;
+    margin: 80px 0px 30px 0px;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+#answer2 {
+    display: none;
+    color: gray;
+    font-size: 18px;
+    margin: 20px 275px 20px 200px;
+}
+
+#closeBtn2 {
+    display: none;
+}
+
+#closeBtn3 {
+    display: none;
+}
+
+#closeBtn4 {
+    display: none;
+}
+
+.imgLogo {
+    height: 50px;
+    width: auto;
+}
+
+.faqTable {
+    margin-bottom: 20px;
+}
+
+.btnArea {
+    height: auto;
+    width: 20px;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .h1 {
+        font-size: 34px;
+        text-align: center;
+        color: white;
+        font-weight: 500;
+        margin: 50px 5px 10px 5px;
+    }
+
+
+
+    .blueFont {
+        color: white;
+    }
+
+    .blueFont:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    .textGray1 {
+        text-align: center;
+        position: relative;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+    .Store1 {
+        display: none;
+    }
+
+    .wellnessImage {
+        display: flex;
+        justify-content: center;
+    }
+
+    .wellnessImage img {
+    height: 600px;
+    width: auto;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    }
+
+    .firstImg {
+    display: none;
+    }
+
+    .secondImg {
+    height: 600px;
+    width: auto;
+    }
+
+    .thirdImg {
+    display: none;
+    }
+
+    .secondBlock {
+    margin-top: 150px;
+    } 
+
+    .thirdBlock {
+        margin-top: 150px;
+        margin-bottom: 100px;
+    }
+
+    .h3 {
+        text-align: center;
+        margin-top: 35px;
+    }
+
+    .textGray2 {
+        text-align: center;
+        margin-top: 35px;
+
+    }
+
+    .Store2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    li {
+        margin: 0px 10px 0px 10px;
+        text-decoration: none;
+        list-style-type: none;
+    }
+
+    .footerBlock {
+        display: flex;
+        justify-content: space-evenly;
+    } 
+
+    .imgLogo {
+        height: 30px;
+        width: auto;
+    }
+
+    .teamMember {
+        display: flex;
+        justify-content: center;
+    }
+
+    .Picture {
+        justify-content: center;
+    }
+
+    .team {
+        justify-content: center;
+        margin-top: 5px;
+    }
+
+    .memberName{
+        text-align: center;
+        margin: 5px 0px 5px 0px;
+    }
+
+    .memberDescription {
+        text-align: center;
+        margin: 5px 20px 5px 20px;
+    }
+
+    .memberPosition {
+        text-align: center;
+        margin: 5px 0px 5px 0px;
+    }
+
+    .FAQrow {
+        text-align: left;
+        margin: 30px 20px 10px 30px;
+    }
+
+    #answerBlock {
+        display: none;
+        color: gray;
+        font-size: 16px;
+        margin: 20px 50px 20px 40px;
+    }
+    
+    #answerBlock2 {
+        display: none;
+        color: gray;
+        font-size: 16px;
+        margin: 20px 50px 20px 40px;    
+    }
+    
+    #answerBlock3 {
+        display: none;
+        color: gray;
+        font-size: 16px;
+        margin: 20px 50px 20px 40px;    
+    }
+    
+    #answerBlock4 {
+        display: none;
+        color: gray;
+        font-size: 16px;
+        margin: 20px 50px 20px 40px;
+        }
+
+        .h4 {
+            font-size: 20px;
+        } 
+
+        .supportForm {
+            display: flex;
+            justify-content: center;
+        }
+
+        .input {
+            border-radius: 50px;
+            height: 50px;
+            width: 400px;
+            margin-left: 180px;
+        } 
+
+        .textInput {
+            border-radius: 20px;
+            height: 50px;
+            width: 400px;
+            display: flex;
+            margin-left: 180px;
+        }
+
+        .nav-item {
+            margin: 0px 00px 0px 00px;
+            text-align: right;
+        }
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .h1 {
+        font-size: 40px;
+        text-align: center;
+        color: white;
+        font-weight: 600;
+        margin: 50px 5px 10px 5px;
+    }
+
+    .blueFont {
+        color: white;
+    }
+
+    .blueFont:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    .textGray1 {
+        text-align: center;
+        position: relative;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .Store1 img{
+        width: 150px;
+        height: auto;
+        margin-right: 10px;
+    }
+
+    .wellnessImage {
+        display: flex;
+        justify-content: center;
+    }
+
+    .wellnessImage img {
+    height: 500px;
+    width: auto;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    }
+
+    .secondImg {
+    height: 500px;
+    width: auto;
+    }
+
+    .secondBlock {
+    margin-top: 150px;
+    } 
+
+    .thirdBlock {
+        margin-top: 150px;
+        margin-bottom: 100px;
+    }
+
+    .h3 {
+        text-align: center;
+        margin-top: 35px;
+    }
+
+    .textGray2 {
+        text-align: center;
+        margin-top: 35px;
+
+    }
+
+    .Store2 img {
+        margin: 10px;
+        display: inline;
+        width: 150px;
+    }
+
+    .footer {
+        display: flex;
+        justify-self: space-evenly;
+    }
+
+    li {
+        margin: 0px 25px 0px 35px;
+        text-decoration: none;
+        list-style-type: none;
+    }
+
+    .footerBlock {
+        display: flex;
+        justify-content: space-evenly;
+    } 
+    
+    .imgLogo {
+        height: 40px;
+        width: auto;
+    }
+
+    .memberName{
+        text-align: center;
+        margin: 5px 0px 5px 0px;
+    }
+
+    .memberDescription {
+        text-align: center;
+        margin: 5px 25px 5px 25px;
+    }
+
+    .memberPosition {
+        text-align: center;
+        margin: 5px 0px 5px 0px;
+    }
+
+}
